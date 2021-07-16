@@ -1,13 +1,13 @@
 <p align="center">
 
-  <h1 align="center" style="margin: 0 auto 0 auto;">Spotify BIN Checker</h1>
+  <h1 align="center" style="margin: 0 auto 0 auto;">✨Spotify BIN Checker✨</h1>
   <h5 align="center" style="margin: 0 auto 0 auto;">Automate BIN Testing on Spotify</h5>
   </p>
 
 
 
   <br>
-
+ 
 ## 💡 Introduction
 
 It is tool made for cracker and binners to check if a BIN is working for Spotify.com.
@@ -21,14 +21,16 @@ ___
 1. Simplistic and easy to use GUI.
 2. Significantly faster than doing it manually.
 
+
 ## 🛠  Installing Spotify BIN Checker
 ```
 git clone https://github.com/notAZMAT/Spotify_BIN_Checker/
 
 python3 Spotify_BIN_Checker.py
 ```
- Or You can download the [Executable Setup](https://github.com/notAZMAT/Spotify_BIN_Checker/files/6829938/sbc_setup.zip)
-
+ ### 🎯 Download The Executable Setup:
+ <a href="https://github.com/notAZMAT/Spotify_BIN_Checker/files/6829938/sbc_setup.zip" target="_blank"><img src="https://user-images.githubusercontent.com/87519640/125945375-c6302f97-c49c-466c-903b-530e0a5aaade.png" width="250">
+<br>
 ## ⚡️ Using Spotify BIN Checker
 
 Spotify BIN Checker is very easy to use!
