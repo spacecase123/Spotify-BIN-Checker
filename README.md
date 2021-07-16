@@ -27,14 +27,38 @@ git clone https://github.com/notAZMAT/Spotify_BIN_Checker/
 
 python3 Spotify_BIN_Checker.py
 ```
-Or You can download the [Executable Setup](https://github.com/notAZMAT/Spotify_BIN_Checker/files/6829938/sbc_setup.zip)
+ Or You can download the [Executable Setup](https://github.com/notAZMAT/Spotify_BIN_Checker/files/6829938/sbc_setup.zip)
 
 ## ⚡️ Using Spotify BIN Checker
 
 Spotify BIN Checker is very easy to use!
 #### 1. Enter The Login details, BIN, Fecha(OPTIONAL), Country Code and Postal Code of the BIN and click Start.
-![main_windowpic](https://user-images.githubusercontent.com/87519640/125933374-a328866e-b247-4515-aba8-3712a208cc96.png)
+<br>
+<img src="https://user-images.githubusercontent.com/87519640/125933374-a328866e-b247-4515-aba8-3712a208cc96.png" width="500">
 
 #### 2. Click Start Again to confirm the process and wait. That's it!
-![loading_windowpic](https://user-images.githubusercontent.com/87519640/125933683-4ac16dec-0864-4659-bc88-4d422b1285d0.png)
+<br>
+<img src="https://user-images.githubusercontent.com/87519640/125933683-4ac16dec-0864-4659-bc88-4d422b1285d0.png" width="500">
 
+
+___
+
+<br>
+
+## 📐 How it Works
+Spotify BIN Checker works using a library called selenium which is used for browser automation.
+
+It's GUI is build using another library called Tkinter.
+
+___
+<br>
+<br>
+
+## 📝 Contact Me
+
+If you want to contact me, you can reach me at azmathussainearn@gmail.com
+
+___
+<br>
+
+### By V3NUM
