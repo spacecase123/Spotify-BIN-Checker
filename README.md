@@ -24,7 +24,7 @@ ___
 
 ## 🛠  Installing Spotify BIN Checker
 ```
-git clone https://github.com/notAZMAT/Spotify_BIN_Checker/
+git clone https://github.com/notAZMAT/Spotify-BIN-Checker/
 
 python3 Spotify_BIN_Checker.py
 ```
