@@ -58,7 +58,7 @@ ___
 
 ## 📝 Contact Me
 
-If you want to contact me, you can reach me at azmathussainearn@gmail.com
+azmathussainearn@gmail.com
 
 ___
 <br>
