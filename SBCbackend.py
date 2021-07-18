@@ -19,7 +19,7 @@ if fechaMM == "":
     fechaMM = "RND"
 else:
     fechaMM = fechaMM
-if fechaMM > "9":
+if int(fechaMM) > 9:
     fechaMM = fechaMM
 else:
     fechaMM = "0"+fechaMM
