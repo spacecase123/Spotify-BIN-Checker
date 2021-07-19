@@ -19,18 +19,31 @@ ___
 
 ## ☄️  Advantages of Spotify BIN Checker
 1. Simplistic and easy to use GUI.
-2. Significantly faster than doing it manually.
+2. No need to install the latest chromedriver. It auto-installs it!
+3. Significantly faster than doing it manually.
 
 
 ## 🛠  Installing Spotify BIN Checker
+Step 1:
 ```
 git clone https://github.com/notAZMAT/Spotify-BIN-Checker/
 
+cd Spotify-BIN-Checker
+```
+Step 2:
+```
 python3 Spotify_BIN_Checker.py
 ```
+Step 3:
+```
+pip3 install -r requirements.txt
+```
+DONE!
+
  ### 🎯 Download The Executable Setup:
  <a href="https://github.com/notAZMAT/Spotify_BIN_Checker/files/6829938/sbc_setup.zip" target="_blank"><img src="https://user-images.githubusercontent.com/87519640/125945375-c6302f97-c49c-466c-903b-530e0a5aaade.png" width="250">
 <br>
+ #### NOTE: THE EXECUTABLE MIGHT NOT BE THE LATEST VERSION!
 ## ⚡️ Using Spotify BIN Checker
 
 Spotify BIN Checker is very easy to use!
