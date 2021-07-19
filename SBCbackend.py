@@ -1,4 +1,4 @@
-from selenium import webdriver
+rom selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import chromedriver_autoinstaller
 from time import sleep
@@ -48,7 +48,7 @@ options.add_argument("--start-maximized")
 options.add_argument('--disable-gpu')
 options.add_argument('--disable-dev-shm-usage')
 options.add_argument('--no-sandbox')
-driver = webdriver.Chrome(options=options)
+driver = webdriver.Chrome()
 # driver = webdriver.Chrome(ChromeDriverManager().install(), options=options)
 
 def LoginSpotify():
@@ -67,7 +67,7 @@ def LoginSpotify():
             driver.get("https://www.spotify.com/"+country_code+"-en/purchase/offer/default-trial-1m/?country="+country_code.upper())
         else:
             driver.get("https://www.spotify.com/"+country_code+"/purchase/offer/default-trial-1m/?country="+country_code.upper())
-        sleep(10)
+        sleep(12)
         if len(driver.find_elements_by_id("onetrust-policy-text")) > 0:
             driver.find_element_by_class_name("onetrust-close-btn-handler.onetrust-close-btn-ui.banner-close-button.ot-close-icon").click()
         sleep(1)
@@ -242,5 +242,3 @@ live_cc_db = {
 # GenerateCC()
 # CheckCC()
 # TryCC()
-
-
