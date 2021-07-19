@@ -32,11 +32,12 @@ cd Spotify-BIN-Checker
 ```
 Step 2:
 ```
-python3 Spotify_BIN_Checker.py
+pip3 install -r requirements.txt
 ```
+
 Step 3:
 ```
-pip3 install -r requirements.txt
+python3 Spotify_BIN_Checker.py
 ```
 DONE!
 
